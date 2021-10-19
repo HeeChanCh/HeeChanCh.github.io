@@ -1714,6 +1714,10 @@ input, select, textarea {
 	margin-right: 3rem;
 }
 
+#contact p{
+	margin: 0 0 1rem 0 !important;
+}
+
 .contactName{
 	color: #555555;
 }
