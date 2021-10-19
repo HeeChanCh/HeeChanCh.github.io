@@ -896,6 +896,7 @@ input, select, textarea {
 /* Icons */
 
 	ul.icons {
+		margin: 4rem 0 0 1.5rem;
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
@@ -1660,7 +1661,6 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-
 .myPhoto{
 	float: left;
 	display: inline-block;
@@ -1671,7 +1671,7 @@ input, select, textarea {
 
 .about{
 	margin-top: 10% !important;
-	margin-left: 40% !important;
+	margin-left: 35% !important;
 
 }
 
