@@ -1702,6 +1702,10 @@ input, select, textarea {
 	margin-top: 1.5rem;
 }
 
+#project{
+	width: 41rem !important;
+}
+
 #contact{
 	width: 35rem !important;
 }
