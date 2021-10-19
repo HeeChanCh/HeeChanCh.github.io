@@ -1663,10 +1663,59 @@ input, select, textarea {
 
 .myPhoto{
 	float: left;
+	display: inline-block;
+
+	width: 236px;
+	height: auto;
 }
 
 .about{
 	margin-top: 10% !important;
 	margin-left: 40% !important;
 
+}
+
+.service-item{
+	display: inline-block;
+
+	width: 180px;
+
+	margin-bottom: 1.5rem;
+}
+
+.logoImg{
+	width: 120px;
+	height: auto;
+
+	display: block;
+
+	margin: 0px auto;
+}
+
+.icon{
+	margin-bottom: 1.5rem;
+}
+
+.logo-content{
+	text-align: center;
+
+	margin-top: 1.5rem;
+}
+
+#contact{
+	width: 35rem !important;
+}
+
+#contact .myPhoto{
+	margin-right: 3rem;
+}
+
+.contactName{
+	color: #555555;
+}
+
+.gitgit:hover{
+	transition: all 0.2s ease-in-out;
+	color: #555555;
+	font:bold;
 }
